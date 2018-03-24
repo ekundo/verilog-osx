@@ -1,0 +1,90 @@
+[*]
+[*] GTKWave Analyzer v3.3.87 (w)1999-2017 BSI
+[*] Sun Mar 18 16:37:27 2018
+[*]
+[dumpfile] "/Users/kundo/Library/Mobile Documents/com~apple~CloudDocs/workspace/verilog-osx/top_tb.vcd"
+[dumpfile_mtime] "Sun Mar 18 16:32:02 2018"
+[dumpfile_size] 17760241
+[savefile] "/Users/kundo/Library/Mobile Documents/com~apple~CloudDocs/workspace/verilog-osx/top.gtkw"
+[timestart] 0
+[size] 1440 855
+[pos] -1 -1
+*-26.559471 152137000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[treeopen] top_tb.top_inst.
+[treeopen] top_tb.top_inst.converter_inst.
+[treeopen] top_tb.top_inst.converter_inst.vga_reader_inst.
+[treeopen] top_tb.top_inst.converter_inst.vga_writer_inst.
+[treeopen] top_tb.top_inst.converter_inst.vga_writer_inst.input_fifo.
+[treeopen] top_tb.top_inst.vga_inst.
+[sst_width] 193
+[signals_width] 311
+[sst_expanded] 1
+[sst_vpaned_height] 394
+@28
+top_tb.top_inst.converter_inst.clk25
+top_tb.top_inst.converter_inst.clk100
+top_tb.top_inst.clk100s
+@200
+-
+@28
+top_tb.top_inst.converter_inst.i_hsync
+top_tb.top_inst.converter_inst.i_vsync
+@200
+-
+@c00024
+[color] 5
+#{rgb} (0)top_tb.top_inst.converter_inst.i_vga_r[3:0] (1)top_tb.top_inst.converter_inst.i_vga_r[3:0] (2)top_tb.top_inst.converter_inst.i_vga_r[3:0] (3)top_tb.top_inst.converter_inst.i_vga_r[3:0] (0)top_tb.top_inst.converter_inst.i_vga_g[3:0] (1)top_tb.top_inst.converter_inst.i_vga_g[3:0] (2)top_tb.top_inst.converter_inst.i_vga_g[3:0] (3)top_tb.top_inst.converter_inst.i_vga_g[3:0] (0)top_tb.top_inst.converter_inst.i_vga_b[3:0] (1)top_tb.top_inst.converter_inst.i_vga_b[3:0] (2)top_tb.top_inst.converter_inst.i_vga_b[3:0] (3)top_tb.top_inst.converter_inst.i_vga_b[3:0]
+@c00022
+top_tb.top_inst.converter_inst.i_vga_r[3:0]
+@28
+(0)top_tb.top_inst.converter_inst.i_vga_r[3:0]
+(1)top_tb.top_inst.converter_inst.i_vga_r[3:0]
+(2)top_tb.top_inst.converter_inst.i_vga_r[3:0]
+(3)top_tb.top_inst.converter_inst.i_vga_r[3:0]
+@1401200
+-group_end
+@800022
+top_tb.top_inst.converter_inst.i_vga_g[3:0]
+@28
+(0)top_tb.top_inst.converter_inst.i_vga_g[3:0]
+(1)top_tb.top_inst.converter_inst.i_vga_g[3:0]
+(2)top_tb.top_inst.converter_inst.i_vga_g[3:0]
+(3)top_tb.top_inst.converter_inst.i_vga_g[3:0]
+@1001200
+-group_end
+@800022
+top_tb.top_inst.converter_inst.i_vga_b[3:0]
+@28
+(0)top_tb.top_inst.converter_inst.i_vga_b[3:0]
+(1)top_tb.top_inst.converter_inst.i_vga_b[3:0]
+(2)top_tb.top_inst.converter_inst.i_vga_b[3:0]
+(3)top_tb.top_inst.converter_inst.i_vga_b[3:0]
+@1001200
+-group_end
+@1401200
+-group_end
+@28
+top_tb.top_inst.vga_inst.sync.vga_de
+@24
+top_tb.top_inst.vga_inst.sync.pixel_x[11:0]
+top_tb.top_inst.vga_inst.sync.pixel_y[11:0]
+@200
+-
+@28
+top_tb.top_inst.converter_inst.vga_writer_inst.hsync
+top_tb.top_inst.converter_inst.vga_writer_inst.vsync
+@c00025
+[color] 7
+#{rgb} (0)top_tb.top_inst.converter_inst.vga_writer_inst.vga_r[3:0] (1)top_tb.top_inst.converter_inst.vga_writer_inst.vga_r[3:0] (2)top_tb.top_inst.converter_inst.vga_writer_inst.vga_r[3:0] (3)top_tb.top_inst.converter_inst.vga_writer_inst.vga_r[3:0] (0)top_tb.top_inst.converter_inst.vga_writer_inst.vga_g[3:0] (1)top_tb.top_inst.converter_inst.vga_writer_inst.vga_g[3:0] (2)top_tb.top_inst.converter_inst.vga_writer_inst.vga_g[3:0] (3)top_tb.top_inst.converter_inst.vga_writer_inst.vga_g[3:0] (0)top_tb.top_inst.converter_inst.vga_writer_inst.vga_b[3:0] (1)top_tb.top_inst.converter_inst.vga_writer_inst.vga_b[3:0] (2)top_tb.top_inst.converter_inst.vga_writer_inst.vga_b[3:0] (3)top_tb.top_inst.converter_inst.vga_writer_inst.vga_b[3:0]
+@22
+top_tb.top_inst.converter_inst.vga_writer_inst.vga_r[3:0]
+top_tb.top_inst.converter_inst.vga_writer_inst.vga_g[3:0]
+top_tb.top_inst.converter_inst.vga_writer_inst.vga_b[3:0]
+@1401205
+-group_end
+@24
+top_tb.top_inst.converter_inst.vga_writer_inst.pixel_x[11:0]
+top_tb.top_inst.converter_inst.vga_writer_inst.pixel_y[11:0]
+[pattern_trace] 1
+[pattern_trace] 0
